@@ -1,5 +1,7 @@
+#Aqui se pone los nombres de los archivos/carpetas que no quiero subir a GitHub
 #ignorar archivo configuracion_local.sh
 configuracion_local.sh
+history.txt
 
 #ignorar carpeta o directorio
 archivos_personales/
